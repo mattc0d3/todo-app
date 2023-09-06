@@ -1,4 +1,4 @@
-# Meet-eorite
+# Todo App
 
 Link to hosted app: https://todo-list-matt-sheehan.netlify.app
 
